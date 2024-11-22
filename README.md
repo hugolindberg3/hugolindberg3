@@ -1,3 +1,5 @@
+<img src="channels4_banner.jpg" alt="GitHub Banner" width="100%" />
+
 # 💫 About Me:
 🔭Im currently working on a programming language made in python.<br>👨‍🎓Im currently a student in Västerås<br>🔐Im currently learning Rust
 
